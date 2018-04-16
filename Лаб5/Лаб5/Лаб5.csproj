@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="InvArenda.cs" />
+    <Compile Include="inventar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tipinv.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
